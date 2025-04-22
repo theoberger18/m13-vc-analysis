@@ -22,4 +22,4 @@ To demonstrate how SQL and Python can be used to extract actionable insights for
 
 ---
 
-Developed as a follow-up to the M13 Data Analyst Summer Associate interview process by Theo Berger.
+
