@@ -1,0 +1,101 @@
+startup,sector,round_type,amount_million,year,investor
+Startup_0,AI,Series B,2.27,2023,a16z
+Startup_1,E-Commerce,Seed,0.89,2022,Sequoia
+Startup_2,Web3,Series B,6.11,2022,Accel
+Startup_3,E-Commerce,Series A,6.94,2023,Greylock
+Startup_4,E-Commerce,Seed,0.66,2023,Greylock
+Startup_5,FinTech,Seed,5.36,2023,Accel
+Startup_6,Web3,Series B,2.65,2023,SoftBank
+Startup_7,Web3,Series A,6.63,2022,a16z
+Startup_8,Web3,Series A,2.16,2022,Greylock
+Startup_9,E-Commerce,Series A,7.06,2023,Sequoia
+Startup_10,AI,Seed,4.17,2023,a16z
+Startup_11,Web3,Seed,9.4,2023,Sequoia
+Startup_12,ClimateTech,Seed,1.81,2023,M13
+Startup_13,E-Commerce,Series B,3.74,2023,a16z
+Startup_14,FinTech,Series A,1.58,2022,Greylock
+Startup_15,AI,Seed,9.28,2022,a16z
+Startup_16,ClimateTech,Seed,8.83,2021,a16z
+Startup_17,ClimateTech,Seed,2.95,2022,a16z
+Startup_18,FinTech,Seed,6.77,2021,SoftBank
+Startup_19,AI,Series A,8.26,2022,a16z
+Startup_20,E-Commerce,Series A,5.77,2022,Sequoia
+Startup_21,HealthTech,Series B,5.53,2022,M13
+Startup_22,AI,Seed,2.8,2022,Accel
+Startup_23,FinTech,Seed,1.38,2021,a16z
+Startup_24,ClimateTech,Series A,9.02,2021,Greylock
+Startup_25,E-Commerce,Series A,9.05,2023,a16z
+Startup_26,AI,Series A,6.51,2022,Greylock
+Startup_27,HealthTech,Series A,3.72,2021,Sequoia
+Startup_28,HealthTech,Seed,3.82,2022,Greylock
+Startup_29,Web3,Series A,7.4,2023,Accel
+Startup_30,Web3,Seed,9.02,2022,M13
+Startup_31,FinTech,Seed,8.93,2023,Greylock
+Startup_32,AI,Seed,7.91,2021,Greylock
+Startup_33,AI,Seed,6.6,2021,M13
+Startup_34,ClimateTech,Series A,1.3,2022,Accel
+Startup_35,ClimateTech,Seed,2.04,2022,a16z
+Startup_36,ClimateTech,Series A,9.04,2023,Greylock
+Startup_37,Web3,Series B,6.26,2023,M13
+Startup_38,AI,Seed,0.59,2023,Sequoia
+Startup_39,AI,Seed,1.46,2022,M13
+Startup_40,HealthTech,Series A,6.8,2022,Sequoia
+Startup_41,Web3,Seed,0.55,2023,Accel
+Startup_42,E-Commerce,Seed,2.03,2022,a16z
+Startup_43,Web3,Seed,5.71,2022,M13
+Startup_44,E-Commerce,Seed,7.07,2021,SoftBank
+Startup_45,HealthTech,Series B,6.69,2021,Greylock
+Startup_46,FinTech,Series B,2.63,2023,Accel
+Startup_47,AI,Series A,7.27,2023,M13
+Startup_48,HealthTech,Series B,2.75,2023,Greylock
+Startup_49,AI,Series B,3.59,2022,M13
+Startup_50,ClimateTech,Seed,7.59,2021,Sequoia
+Startup_51,FinTech,Series B,6.67,2021,M13
+Startup_52,FinTech,Series A,8.57,2022,SoftBank
+Startup_53,HealthTech,Series B,6.75,2022,M13
+Startup_54,FinTech,Series B,5.9,2023,M13
+Startup_55,E-Commerce,Seed,1.39,2023,SoftBank
+Startup_56,FinTech,Seed,3.99,2022,Accel
+Startup_57,AI,Seed,3.02,2023,M13
+Startup_58,AI,Seed,2.82,2023,SoftBank
+Startup_59,AI,Series B,9.74,2022,Greylock
+Startup_60,AI,Series B,4.23,2023,Sequoia
+Startup_61,E-Commerce,Seed,8.97,2022,Sequoia
+Startup_62,Web3,Series A,6.5,2022,M13
+Startup_63,ClimateTech,Seed,8.05,2022,Accel
+Startup_64,HealthTech,Seed,5.28,2023,Accel
+Startup_65,AI,Seed,5.98,2021,Greylock
+Startup_66,FinTech,Seed,5.18,2021,M13
+Startup_67,AI,Series B,2.35,2021,Sequoia
+Startup_68,FinTech,Seed,7.36,2021,Accel
+Startup_69,ClimateTech,Series A,3.17,2023,M13
+Startup_70,ClimateTech,Series A,0.73,2023,Accel
+Startup_71,ClimateTech,Seed,6.63,2022,SoftBank
+Startup_72,FinTech,Series B,2.18,2021,Accel
+Startup_73,AI,Series B,9.43,2022,Sequoia
+Startup_74,ClimateTech,Seed,9.56,2022,a16z
+Startup_75,E-Commerce,Seed,9.19,2021,Greylock
+Startup_76,FinTech,Seed,4.02,2022,Greylock
+Startup_77,FinTech,Seed,0.65,2022,Sequoia
+Startup_78,AI,Seed,9.32,2023,Accel
+Startup_79,FinTech,Series A,4.57,2023,M13
+Startup_80,FinTech,Series A,9.68,2021,Accel
+Startup_81,ClimateTech,Seed,9.65,2022,Sequoia
+Startup_82,AI,Seed,8.6,2023,Greylock
+Startup_83,ClimateTech,Series B,3.3,2022,Accel
+Startup_84,ClimateTech,Seed,4.16,2023,Greylock
+Startup_85,AI,Seed,8.59,2023,M13
+Startup_86,HealthTech,Seed,3.51,2021,Greylock
+Startup_87,ClimateTech,Series B,2.11,2021,Greylock
+Startup_88,E-Commerce,Seed,5.79,2023,a16z
+Startup_89,E-Commerce,Series A,9.39,2021,a16z
+Startup_90,FinTech,Series A,7.11,2022,SoftBank
+Startup_91,E-Commerce,Seed,5.92,2023,a16z
+Startup_92,FinTech,Series A,1.42,2022,Greylock
+Startup_93,HealthTech,Seed,6.34,2022,Sequoia
+Startup_94,AI,Series A,9.91,2023,Greylock
+Startup_95,AI,Series A,1.83,2022,Sequoia
+Startup_96,AI,Series A,5.42,2022,Sequoia
+Startup_97,E-Commerce,Seed,8.84,2023,a16z
+Startup_98,HealthTech,Series B,7.54,2022,Accel
+Startup_99,E-Commerce,Seed,7.12,2023,M13
